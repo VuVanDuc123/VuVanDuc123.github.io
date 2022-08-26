@@ -9,7 +9,7 @@ function Routers() {
   return (
     <Routes>
         {/* <Route path="/" exact element={<Home />}/> exact: đúng 100% đường dẫn thì mới gọi đến */}
-        <Route path="/demo-website-yolo-reactjs" element={<Home />}/> 
+        <Route path="/" element={<Home />}/> 
         <Route path="/catalog" element={<Catalog />} />
         <Route path="/catalog/:slug" element={<Product />} />
         <Route path="/cart" element={<Cart />} />
