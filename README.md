@@ -1,3 +1,3 @@
-demo website: https://vuvanduc123.github.io
+demo1 website: https://vuvanduc123.github.io
 
-demo website: https://vuvanduc123.github.io/demo-website-yolo-reactjs/
+demo2 website: https://vuvanduc123.github.io/demo-website-yolo-reactjs/
